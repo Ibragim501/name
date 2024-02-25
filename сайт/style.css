@@ -1,0 +1,19 @@
+body{
+    background-image: url(Picthures/maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-attachment:center;
+    background-size:cover;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 30%;
+}
+
+p, h1{
+    text-align: center;
+    color:rgb(220, 219, 219)
+}
